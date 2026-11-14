@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment & credentials
+.env
+*.key
+
+# Executables & binaries
+*.exe
+cloudflared.exe
+koyeb.exe
+
+# Build artifacts
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+sqlalchemy==2.0.23
+python-multipart==0.0.6
+Pillow==10.1.0
+qrcode==7.4.2
+aiofiles==23.2.1
+python-dateutil==2.8.2
+google-genai>=3.3.0        # Gemini Vision AI — set GEMINI_API_KEY env var to activate
+# ultralytics              # Optional: install for custom YOLO model weights
